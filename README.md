@@ -43,3 +43,8 @@ Currently limited to command-line interaction.
 C++ Standard Library Documentation:
 For usage of STL containers like std::map, std::set, and std::vector.
 FreeBSD man pages for clang++ and make.
+
+# Group Members 
+Melanie Nzaou
+Nelson Ajibise 
+Praise Ben
